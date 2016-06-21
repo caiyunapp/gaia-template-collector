@@ -1,0 +1,1 @@
+# gaia-template-collector
